@@ -1,7 +1,7 @@
 /* 321腓立比書講義 · Service Worker（離線可用）
    版本字串在每次 make_site.py 重新打包時都會變，
    一變就會清掉舊快取、重新抓一份新的，使用者不必手動清除。 */
-const V = '腓立比書-ff5afcbe7348-tri10171933-gxs1019-meet1020-kv1021-gx1021';
+const V = '腓立比書-ff5afcbe7348-tri10171933-gxs1019-meet1020-kv1021-gx1021-gx1021b';
 const SHELL = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png',
